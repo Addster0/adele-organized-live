@@ -1,0 +1,18 @@
+{
+  "name": "Adele organized",
+  "short_name": "Adele",
+  "description": "Free student scheduler for class, work, sports, and life.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3eee4",
+  "theme_color": "#0b4f43",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
