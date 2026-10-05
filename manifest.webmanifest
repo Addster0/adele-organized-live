@@ -1,7 +1,7 @@
 {
   "name": "Adele organized",
   "short_name": "Adele",
-  "description": "Free student scheduler for class, work, sports, and life.",
+  "description": "Adele is not your calendar. A free agent that tells you how to spend the time.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f3eee4",
