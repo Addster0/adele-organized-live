@@ -2,4 +2,4 @@
 
 Open the app: https://addster0.github.io/adele-organized-live/
 
-Adele is not your calendar. It is a time-management agent. Optionally import a work/Sling/Google calendar so Adele can see when you are already busy. This repo is only the hosted static files so group members can use it without cloning. Each person's plan stays in their own browser.
+Adele is not your calendar. It is a time-management agent. Import is optional so Adele can see when you are already busy. This repo is only the hosted static files so group members can use it without cloning. Each person's plan stays in their own browser.
