@@ -1,4 +1,4 @@
-const CACHE = 'adele-organized-v1'
+const CACHE = 'adele-organized-v2'
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
